@@ -1,3 +1,4 @@
+<img width="1391" height="784" alt="WhatsApp Image 2026-04-27 at 5 45 05 pm" src="https://github.com/user-attachments/assets/93191b6d-bf57-46bb-8b17-0f9d2e2c07a8" />
 # Housing-Asset-Performance-Dashboard
 Power BI dashboard for monitoring housing Asset Condition, Compliance Status and Risk Level
 
