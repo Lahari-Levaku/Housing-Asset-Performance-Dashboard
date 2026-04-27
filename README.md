@@ -32,7 +32,3 @@ This project showcases an interactive dashboard built in Power BI to monitor hou
   
 💡 Business Impact:
 This dashboard helps stakeholders quickly identify non-compliant and high-risk properties, enabling better prioritization of maintenance and inspections.
-
-3. Interact with filters to explore insights
-
----
